@@ -5,5 +5,7 @@ This repository is simply for code snippets, research notes, and other research 
 
 I do not authorize anyone to copy my work without permission; please acknowledge Colin De Mers with appropriate references to anything in this repository.
 
+Quick test...
+
 Thank you,
 Colin De Mers
